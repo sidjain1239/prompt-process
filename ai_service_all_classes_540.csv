@@ -1,0 +1,546 @@
+prompt,service
+Detect all objects in the image.,YOLO
+What are the items present here?,YOLO
+Identify all visible objects.,YOLO
+What is in this photo?,YOLO
+Find all animals in the scene.,YOLO
+Show me detected objects.,YOLO
+How many people are visible?,YOLO
+Locate all cars in this image.,YOLO
+Which items can you detect here?,YOLO
+Identify everything in this picture.,YOLO
+Spot the fruits in this image.,YOLO
+Are there any vehicles present?,YOLO
+Find the laptop and mobile.,YOLO
+Detect all household items.,YOLO
+What gadgets are present here?,YOLO
+Mark all tools in this photo.,YOLO
+Identify electronics shown here.,YOLO
+List all things in this street view.,YOLO
+Can you detect bags and bottles?,YOLO
+Is there any chair or table?,YOLO
+Detect traffic signs in this image.,YOLO
+Count the number of people here.,YOLO
+Is there a tree in this picture?,YOLO
+Show bounding boxes for objects.,YOLO
+What is placed on the desk?,YOLO
+Can you find toys in this photo?,YOLO
+Which daily items do you see?,YOLO
+Detect shoes and clothes in this image.,YOLO
+Locate all utensils in the kitchen.,YOLO
+Is there a bike or scooter here?,YOLO
+Can you find food items in this plate?,YOLO
+What kind of electronics are shown?,YOLO
+Find all sports items in this image.,YOLO
+Are animals visible in the backyard?,YOLO
+Detect tools and mechanical items.,YOLO
+Are there fruits or vegetables?,YOLO
+How many bags can be seen?,YOLO
+Find any jewelry or watches.,YOLO
+Can you detect humans in this crowd?,YOLO
+Mark all detected categories.,YOLO
+Which furniture is present?,YOLO
+Is there any remote control visible?,YOLO
+Show all detected labels.,YOLO
+Detect anything in this image.,YOLO
+Can you list detected objects?,YOLO
+How many object types are present?,YOLO
+What do you detect on the floor?,YOLO
+Find everything in the kitchen image.,YOLO
+Point out visible items.,YOLO
+Spot any moving things.,YOLO
+Detect pets in this photo.,YOLO
+Are there wires or electronics?,YOLO
+What school items are shown?,YOLO
+Is there a pen or book here?,YOLO
+Spot containers or bottles.,YOLO
+Mark anything you recognize.,YOLO
+Identify machinery in this image.,YOLO
+Is there any construction equipment?,YOLO
+"Find baskets, boxes, and bags.",YOLO
+What tech items are here?,YOLO
+What is written and what does it mean?,PaddleOCR+LLaMA General QA
+Read and explain the signboard.,PaddleOCR+LLaMA General QA
+Interpret the handwritten text.,PaddleOCR+LLaMA General QA
+Extract and summarize the poster.,PaddleOCR+LLaMA General QA
+What does the printed text say?,PaddleOCR+LLaMA General QA
+Read this and answer questions.,PaddleOCR+LLaMA General QA
+Summarize the text on the image.,PaddleOCR+LLaMA General QA
+Read this paper and explain the content.,PaddleOCR+LLaMA General QA
+Explain the meaning of the written sentence.,PaddleOCR+LLaMA General QA
+Can you understand what’s written here?,PaddleOCR+LLaMA General QA
+Read the board and describe its purpose.,PaddleOCR+LLaMA General QA
+What does the shop board say and mean?,PaddleOCR+LLaMA General QA
+Extract the text and explain it.,PaddleOCR+LLaMA General QA
+What is the meaning of the headline?,PaddleOCR+LLaMA General QA
+Read the letter and summarize.,PaddleOCR+LLaMA General QA
+Tell me what’s written and what it’s about.,PaddleOCR+LLaMA General QA
+Understand the paragraph in this image.,PaddleOCR+LLaMA General QA
+Analyze and answer from the paper.,PaddleOCR+LLaMA General QA
+What does this announcement say?,PaddleOCR+LLaMA General QA
+Read this chart and explain it.,PaddleOCR+LLaMA General QA
+Scan and explain this form.,PaddleOCR+LLaMA General QA
+What does the certificate say?,PaddleOCR+LLaMA General QA
+Read the note and describe its content.,PaddleOCR+LLaMA General QA
+What does the document say overall?,PaddleOCR+LLaMA General QA
+Get the idea of the written text.,PaddleOCR+LLaMA General QA
+Read and interpret the message.,PaddleOCR+LLaMA General QA
+Summarize the instructions on the label.,PaddleOCR+LLaMA General QA
+Extract the content and tell its meaning.,PaddleOCR+LLaMA General QA
+What’s written in the screenshot?,PaddleOCR+LLaMA General QA
+Can you explain the handwritten content?,PaddleOCR+LLaMA General QA
+What are the key points in the image?,PaddleOCR+LLaMA General QA
+Read and explain the message on the sign.,PaddleOCR+LLaMA General QA
+Summarize the bulletin content.,PaddleOCR+LLaMA General QA
+Interpret the article in the photo.,PaddleOCR+LLaMA General QA
+What is the image telling us?,PaddleOCR+LLaMA General QA
+Answer based on the written content.,PaddleOCR+LLaMA General QA
+What’s the purpose of this written board?,PaddleOCR+LLaMA General QA
+Interpret the content for a 10-year-old.,PaddleOCR+LLaMA General QA
+Read the heading and explain it.,PaddleOCR+LLaMA General QA
+Understand and explain the writing.,PaddleOCR+LLaMA General QA
+Can you understand the written message?,PaddleOCR+LLaMA General QA
+What information is given in this image?,PaddleOCR+LLaMA General QA
+Read and break down the meaning.,PaddleOCR+LLaMA General QA
+Give a short explanation of the document.,PaddleOCR+LLaMA General QA
+Read and interpret the essay.,PaddleOCR+LLaMA General QA
+What does the passage talk about?,PaddleOCR+LLaMA General QA
+Answer a question based on the page.,PaddleOCR+LLaMA General QA
+What’s the written context here?,PaddleOCR+LLaMA General QA
+Explain what this document is for.,PaddleOCR+LLaMA General QA
+Read this and provide insights.,PaddleOCR+LLaMA General QA
+Summarize and answer about the writing.,PaddleOCR+LLaMA General QA
+What's being discussed in the image?,PaddleOCR+LLaMA General QA
+What does the text suggest?,PaddleOCR+LLaMA General QA
+Explain the meaning of the passage.,PaddleOCR+LLaMA General QA
+Can you answer based on the signboard?,PaddleOCR+LLaMA General QA
+Give your understanding of the content.,PaddleOCR+LLaMA General QA
+Read the image and describe the theme.,PaddleOCR+LLaMA General QA
+What is the message in the writing?,PaddleOCR+LLaMA General QA
+Understand and answer about the paper.,PaddleOCR+LLaMA General QA
+Tell what this writing is about.,PaddleOCR+LLaMA General QA
+What does the written instruction mean?,PaddleOCR+LLaMA General QA
+Extract text from this image.,PaddleOCR
+What is written on the wall?,PaddleOCR
+Read the title in the image.,PaddleOCR
+Recognize the characters here.,PaddleOCR
+Scan this sign and give the text.,PaddleOCR
+Read the handwriting.,PaddleOCR
+Convert this photo to text.,PaddleOCR
+What’s written on the document?,PaddleOCR
+Find the printed text.,PaddleOCR
+Scan the book page.,PaddleOCR
+Detect the writing on the board.,PaddleOCR
+Extract the license plate text.,PaddleOCR
+Can you read the newspaper headline?,PaddleOCR
+Recognize letters in this form.,PaddleOCR
+What is the content of this sign?,PaddleOCR
+Read the menu card.,PaddleOCR
+Extract numbers from the receipt.,PaddleOCR
+Recognize the handwritten numbers.,PaddleOCR
+Scan the certificate content.,PaddleOCR
+Identify printed matter on this paper.,PaddleOCR
+What’s written in the journal?,PaddleOCR
+"Text on the label, please.",PaddleOCR
+Find the characters in the image.,PaddleOCR
+Identify the text on the file.,PaddleOCR
+OCR the text in the banner.,PaddleOCR
+Read text on product packaging.,PaddleOCR
+Can you detect the text only?,PaddleOCR
+Only read what’s written here.,PaddleOCR
+Recognize this printed letter.,PaddleOCR
+Extract characters from poster.,PaddleOCR
+Can you OCR this sign?,PaddleOCR
+Get the sentence written here.,PaddleOCR
+Find the description printed.,PaddleOCR
+What letters are visible?,PaddleOCR
+Scan and read this label.,PaddleOCR
+Read the signs in this street photo.,PaddleOCR
+Get all visible writing.,PaddleOCR
+"Just the OCR output, please.",PaddleOCR
+Recognize and give the letters.,PaddleOCR
+Convert this image to plain text.,PaddleOCR
+Only extract the visible text.,PaddleOCR
+Identify fonts and words here.,PaddleOCR
+Read this sticker’s content.,PaddleOCR
+Get the brand name on this bottle.,PaddleOCR
+Extract writing on the wall.,PaddleOCR
+Get all signage text.,PaddleOCR
+Find the banner’s content.,PaddleOCR
+Read the name from ID card.,PaddleOCR
+Text on the advertisement please.,PaddleOCR
+Give me the OCR result only.,PaddleOCR
+What’s the writing on the book?,PaddleOCR
+Extract data from form fields.,PaddleOCR
+Read lines on the paper.,PaddleOCR
+Get the instructions from the sheet.,PaddleOCR
+Read and show the text only.,PaddleOCR
+OCR output for this image.,PaddleOCR
+Text recognition output only.,PaddleOCR
+What is the visible paragraph?,PaddleOCR
+Recognize lines of text.,PaddleOCR
+Text inside this chart please.,PaddleOCR
+Detect and display only text.,PaddleOCR
+Write a caption for this photo.,BLIP Captioning
+Describe this image.,BLIP Captioning
+Give a short description of the image.,BLIP Captioning
+Generate a caption for the scene.,BLIP Captioning
+Write one sentence describing this.,BLIP Captioning
+Create a caption like Instagram.,BLIP Captioning
+Summarize this photo visually.,BLIP Captioning
+What do you see in the picture?,BLIP Captioning
+Give a social media caption.,BLIP Captioning
+Write an AI caption for this image.,BLIP Captioning
+What does this image show?,BLIP Captioning
+Make a creative caption.,BLIP Captioning
+Describe the scenery here.,BLIP Captioning
+Generate a smart caption.,BLIP Captioning
+Write a title for the picture.,BLIP Captioning
+Image caption generator task.,BLIP Captioning
+What’s this image about?,BLIP Captioning
+Caption this event photo.,BLIP Captioning
+Make a fun caption for this.,BLIP Captioning
+What can be seen in the shot?,BLIP Captioning
+Tell what’s happening in one line.,BLIP Captioning
+Create a meaningful caption.,BLIP Captioning
+Write a photo summary.,BLIP Captioning
+Describe what is visible here.,BLIP Captioning
+Can you caption the image?,BLIP Captioning
+Generate a line for this snap.,BLIP Captioning
+AI caption for this frame.,BLIP Captioning
+Describe the scene with context.,BLIP Captioning
+Caption this nature photo.,BLIP Captioning
+What do you interpret from this?,BLIP Captioning
+Summarize the moment shown.,BLIP Captioning
+What is this image telling?,BLIP Captioning
+Photo to caption conversion.,BLIP Captioning
+Generate a line for Instagram.,BLIP Captioning
+Suggest a short caption.,BLIP Captioning
+Explain the image briefly.,BLIP Captioning
+Give a short summary of photo.,BLIP Captioning
+What is captured in this?,BLIP Captioning
+Write a creative one-liner.,BLIP Captioning
+Summarize the visual content.,BLIP Captioning
+Can you describe this visual?,BLIP Captioning
+Describe this photo for alt text.,BLIP Captioning
+What moment is captured?,BLIP Captioning
+Photo description in one sentence.,BLIP Captioning
+Make a line for this frame.,BLIP Captioning
+Describe the picture smartly.,BLIP Captioning
+Short text for this photo.,BLIP Captioning
+Make a post caption.,BLIP Captioning
+Create one sentence to explain.,BLIP Captioning
+What’s the view shown?,BLIP Captioning
+One line about this image.,BLIP Captioning
+Say what you see.,BLIP Captioning
+What moment is this?,BLIP Captioning
+Scene in one sentence.,BLIP Captioning
+What does the camera capture?,BLIP Captioning
+Give this image a name.,BLIP Captioning
+Title the picture.,BLIP Captioning
+Explain this in your own words.,BLIP Captioning
+Describe what’s going on.,BLIP Captioning
+Summarize what’s visible.,BLIP Captioning
+What is the capital of France?,LLaMA General QA
+Who wrote Harry Potter?,LLaMA General QA
+What is 15 times 12?,LLaMA General QA
+Tell me about World War II.,LLaMA General QA
+Explain gravity.,LLaMA General QA
+Who is the Prime Minister of India?,LLaMA General QA
+What are the uses of AI?,LLaMA General QA
+What is quantum computing?,LLaMA General QA
+How does a battery work?,LLaMA General QA
+Name the planets in the solar system.,LLaMA General QA
+Define photosynthesis.,LLaMA General QA
+Who is Elon Musk?,LLaMA General QA
+What is the tallest mountain?,LLaMA General QA
+What is Python used for?,LLaMA General QA
+Explain the internet.,LLaMA General QA
+When was the first world war?,LLaMA General QA
+Who discovered America?,LLaMA General QA
+How do volcanoes erupt?,LLaMA General QA
+What is climate change?,LLaMA General QA
+What is the boiling point of water?,LLaMA General QA
+What is electricity?,LLaMA General QA
+Tell me about the Taj Mahal.,LLaMA General QA
+What is a black hole?,LLaMA General QA
+Why is the sky blue?,LLaMA General QA
+What is the speed of light?,LLaMA General QA
+What is machine learning?,LLaMA General QA
+Tell me a fun fact.,LLaMA General QA
+What are the 7 wonders?,LLaMA General QA
+Define democracy.,LLaMA General QA
+Why do we dream?,LLaMA General QA
+Explain time zones.,LLaMA General QA
+What causes earthquakes?,LLaMA General QA
+Who was Mahatma Gandhi?,LLaMA General QA
+List the oceans of the world.,LLaMA General QA
+What is a computer virus?,LLaMA General QA
+How do airplanes fly?,LLaMA General QA
+What is renewable energy?,LLaMA General QA
+Explain DNA.,LLaMA General QA
+What is a galaxy?,LLaMA General QA
+What is blockchain?,LLaMA General QA
+Who won the last Olympics?,LLaMA General QA
+What is water made of?,LLaMA General QA
+What is a noun?,LLaMA General QA
+Give me a riddle.,LLaMA General QA
+What is a proverb?,LLaMA General QA
+Who is the president of the USA?,LLaMA General QA
+What are vitamins?,LLaMA General QA
+How does digestion work?,LLaMA General QA
+Define artificial intelligence.,LLaMA General QA
+What is inertia?,LLaMA General QA
+What is algebra?,LLaMA General QA
+What is a magnet?,LLaMA General QA
+What is a rainbow?,LLaMA General QA
+What are fossils?,LLaMA General QA
+Who invented the light bulb?,LLaMA General QA
+What is blood made of?,LLaMA General QA
+What are the layers of Earth?,LLaMA General QA
+Who is the CEO of Google?,LLaMA General QA
+How do plants grow?,LLaMA General QA
+What is gravity?,LLaMA General QA
+Locate the dog in the image.,Grounding DINO
+Where is the red car parked?,Grounding DINO
+Highlight the man with the umbrella.,Grounding DINO
+Find the woman wearing a hat.,Grounding DINO
+Identify the object near the door.,Grounding DINO
+Locate the tree in this image.,Grounding DINO
+Where is the ball in this photo?,Grounding DINO
+Mark the position of the bicycle.,Grounding DINO
+Point out the person on the left.,Grounding DINO
+Show the region with the airplane.,Grounding DINO
+Where is the animal hiding?,Grounding DINO
+Find and highlight the backpack.,Grounding DINO
+Locate the traffic light.,Grounding DINO
+Where is the boy jumping?,Grounding DINO
+Mark the girl holding a book.,Grounding DINO
+Locate the cup on the table.,Grounding DINO
+Where is the cat on the couch?,Grounding DINO
+Point out the items on the shelf.,Grounding DINO
+Highlight the red object.,Grounding DINO
+Where is the clock in the room?,Grounding DINO
+Find the item next to the phone.,Grounding DINO
+Locate the hand sanitizer bottle.,Grounding DINO
+Mark all chairs visible.,Grounding DINO
+Point to the whiteboard.,Grounding DINO
+Where is the fan located?,Grounding DINO
+Find the object hanging.,Grounding DINO
+Highlight everything that is blue.,Grounding DINO
+Where is the lamp in this room?,Grounding DINO
+Point to the flowers in the image.,Grounding DINO
+Locate the fruit basket.,Grounding DINO
+Find the source of light.,Grounding DINO
+Mark the floor mat.,Grounding DINO
+Where is the book placed?,Grounding DINO
+Point to the person facing camera.,Grounding DINO
+Mark the corner with the shadow.,Grounding DINO
+Where is the window?,Grounding DINO
+Locate the computer monitor.,Grounding DINO
+Point out the power socket.,Grounding DINO
+Where is the mouse kept?,Grounding DINO
+Highlight the area with food.,Grounding DINO
+Find the notebook in this scene.,Grounding DINO
+Where is the charger plugged?,Grounding DINO
+Point to the person clapping.,Grounding DINO
+Mark the region with handwriting.,Grounding DINO
+Locate the drawer handles.,Grounding DINO
+Where is the person walking?,Grounding DINO
+Highlight the area with motion.,Grounding DINO
+Point out the sign board.,Grounding DINO
+Where are the ceiling lights?,Grounding DINO
+Find the camera in the picture.,Grounding DINO
+Locate the speaker on the desk.,Grounding DINO
+Where is the glass of water?,Grounding DINO
+Mark the location of pen.,Grounding DINO
+Find the phone charging.,Grounding DINO
+Highlight the standing person.,Grounding DINO
+Locate the seated man.,Grounding DINO
+Where is the microphone?,Grounding DINO
+Mark the backpack strap.,Grounding DINO
+Point to the hanging coat.,Grounding DINO
+Highlight the food packet.,Grounding DINO
+Translate the Hindi signboard.,PaddleOCR+Translator
+What does the Chinese text mean?,PaddleOCR+Translator
+Convert the Urdu image text to English.,PaddleOCR+Translator
+What is the English meaning of this text?,PaddleOCR+Translator
+Translate the handwritten French.,PaddleOCR+Translator
+Translate this Japanese label.,PaddleOCR+Translator
+Give English for the image text.,PaddleOCR+Translator
+What does the Tamil writing say?,PaddleOCR+Translator
+Explain this image text in English.,PaddleOCR+Translator
+Detect and translate the board.,PaddleOCR+Translator
+OCR and translate the sentence.,PaddleOCR+Translator
+Interpret this Bangla message.,PaddleOCR+Translator
+Give Hindi to English meaning.,PaddleOCR+Translator
+Translate image instructions.,PaddleOCR+Translator
+"Image contains Korean, translate it.",PaddleOCR+Translator
+Tell me what the Spanish text says.,PaddleOCR+Translator
+Extract and translate the article.,PaddleOCR+Translator
+What is this letter in English?,PaddleOCR+Translator
+Show English translation of this sign.,PaddleOCR+Translator
+Can you decode this Chinese menu?,PaddleOCR+Translator
+Tell the meaning of Gujarati ad.,PaddleOCR+Translator
+Detect Marathi and translate it.,PaddleOCR+Translator
+Translate Arabic writing in the image.,PaddleOCR+Translator
+Translate and explain the poster.,PaddleOCR+Translator
+Detect & translate Punjabi handwriting.,PaddleOCR+Translator
+Explain Malayalam script in English.,PaddleOCR+Translator
+What is this Persian sentence?,PaddleOCR+Translator
+Convert text image to English meaning.,PaddleOCR+Translator
+Translate this Indonesian label.,PaddleOCR+Translator
+Get meaning of Nepali sentence.,PaddleOCR+Translator
+What is English of Sinhala text?,PaddleOCR+Translator
+"Text is in Telugu, translate it.",PaddleOCR+Translator
+Give me English version of image text.,PaddleOCR+Translator
+What does the Thai poster say?,PaddleOCR+Translator
+Extract and translate Vietnamese sign.,PaddleOCR+Translator
+Give meaning of tagalog board.,PaddleOCR+Translator
+Tell English version of Swahili writing.,PaddleOCR+Translator
+Convert image Chinese to English.,PaddleOCR+Translator
+Read and translate the signboard.,PaddleOCR+Translator
+Translate the ad on the wall.,PaddleOCR+Translator
+Detect text and give English output.,PaddleOCR+Translator
+What’s the board saying in English?,PaddleOCR+Translator
+"Image has Japanese, what does it mean?",PaddleOCR+Translator
+Translate image quote to English.,PaddleOCR+Translator
+Interpret multilingual poster.,PaddleOCR+Translator
+Extract multilingual content and translate.,PaddleOCR+Translator
+What’s this Korean banner saying?,PaddleOCR+Translator
+Translate image poem from Hindi.,PaddleOCR+Translator
+What does this religious text mean?,PaddleOCR+Translator
+Translate image label from Russian.,PaddleOCR+Translator
+"Text is Vietnamese, translate it.",PaddleOCR+Translator
+Translate old Hindi handwriting.,PaddleOCR+Translator
+Extract and decode image caption.,PaddleOCR+Translator
+Give simplified meaning in English.,PaddleOCR+Translator
+Show output in English language.,PaddleOCR+Translator
+Get translation from printed text.,PaddleOCR+Translator
+Convert foreign script to English.,PaddleOCR+Translator
+"Text is not English, translate it.",PaddleOCR+Translator
+Translate signs with foreign languages.,PaddleOCR+Translator
+"Text has mix of languages, translate.",PaddleOCR+Translator
+Explain this phrase in English.,PaddleOCR+Translator
+Give sentence meaning in English.,PaddleOCR+Translator
+Who is standing in the image?,BLIPQA
+What is the child holding?,BLIPQA
+What are they doing in this picture?,BLIPQA
+Who is sitting on the bench?,BLIPQA
+What is happening here?,BLIPQA
+Is the person smiling?,BLIPQA
+Is it raining in this photo?,BLIPQA
+What animal is next to the boy?,BLIPQA
+Who is driving the car?,BLIPQA
+What object is she pointing to?,BLIPQA
+What’s the man wearing?,BLIPQA
+Is this photo taken indoors?,BLIPQA
+What are the people eating?,BLIPQA
+What event is this image from?,BLIPQA
+Where are they sitting?,BLIPQA
+What’s on the table?,BLIPQA
+Is the woman cooking?,BLIPQA
+How many people are visible?,BLIPQA
+What game are they playing?,BLIPQA
+Who is holding the book?,BLIPQA
+Is someone singing here?,BLIPQA
+What is the dog doing?,BLIPQA
+Who is jumping in the photo?,BLIPQA
+Is anyone reading a book?,BLIPQA
+What can you tell from this picture?,BLIPQA
+Is this a classroom scene?,BLIPQA
+What sport is being played?,BLIPQA
+What object is being lifted?,BLIPQA
+Who is walking in the image?,BLIPQA
+What is the baby doing?,BLIPQA
+Is this a wedding event?,BLIPQA
+Are they inside a train?,BLIPQA
+Is someone taking a photo?,BLIPQA
+What’s in their hands?,BLIPQA
+Are there any pets visible?,BLIPQA
+Is anyone running here?,BLIPQA
+What are the people watching?,BLIPQA
+Is someone talking on phone?,BLIPQA
+Who is opening the door?,BLIPQA
+What kind of celebration is this?,BLIPQA
+What is under the chair?,BLIPQA
+Is it a festival photo?,BLIPQA
+Who is in the front row?,BLIPQA
+Is this a hospital scene?,BLIPQA
+Are they cooking together?,BLIPQA
+What is hanging on the wall?,BLIPQA
+Is it a group activity?,BLIPQA
+Who is laughing in the image?,BLIPQA
+Is the photo in daylight?,BLIPQA
+What is he writing?,BLIPQA
+Who is pointing to the screen?,BLIPQA
+Where are they traveling?,BLIPQA
+Is anyone eating ice cream?,BLIPQA
+Who is using a computer?,BLIPQA
+Is the person clapping?,BLIPQA
+What’s in the person’s bag?,BLIPQA
+Are they playing music?,BLIPQA
+Is this a sports ground?,BLIPQA
+What is this scene about?,BLIPQA
+Who is the teacher here?,BLIPQA
+Is the dog barking?,BLIPQA
+Detect all objects and tell what they are.,YOLO+LLaMA
+What objects do you see and describe them?,YOLO+LLaMA
+Identify the items and answer the question.,YOLO+LLaMA
+What do you detect and what’s happening?,YOLO+LLaMA
+Find all visible things and explain the scene.,YOLO+LLaMA
+What items are present and what are they doing?,YOLO+LLaMA
+Detect things and give context.,YOLO+LLaMA
+Tell me what’s in the image and describe it.,YOLO+LLaMA
+Recognize everything and summarize.,YOLO+LLaMA
+Find and interpret the visual content.,YOLO+LLaMA
+What is going on with these objects?,YOLO+LLaMA
+List detected items and describe the activity.,YOLO+LLaMA
+Detect and provide a caption.,YOLO+LLaMA
+What can be seen and what does it mean?,YOLO+LLaMA
+Give full scene understanding with object detection.,YOLO+LLaMA
+Identify people and what they are doing.,YOLO+LLaMA
+Detect gadgets and tell their use.,YOLO+LLaMA
+Who is using what object?,YOLO+LLaMA
+Detect animals and describe their actions.,YOLO+LLaMA
+Explain the image using detected things.,YOLO+LLaMA
+Is the person using any item?,YOLO+LLaMA
+What is the role of detected items?,YOLO+LLaMA
+Explain the setting with object info.,YOLO+LLaMA
+Analyze detected objects with explanation.,YOLO+LLaMA
+Objects found and their interaction?,YOLO+LLaMA
+Summarize using object labels.,YOLO+LLaMA
+Tell what detected items imply.,YOLO+LLaMA
+Use objects to answer: What is this about?,YOLO+LLaMA
+Explain detected tools in context.,YOLO+LLaMA
+Detect and describe interaction.,YOLO+LLaMA
+Tell the full story from objects.,YOLO+LLaMA
+What can you infer from object arrangement?,YOLO+LLaMA
+Tell what each object is used for.,YOLO+LLaMA
+Explain what you observe from detections.,YOLO+LLaMA
+Explain the task from object list.,YOLO+LLaMA
+What are people doing with detected things?,YOLO+LLaMA
+Tell what this kitchen setup means.,YOLO+LLaMA
+Describe party scene via detections.,YOLO+LLaMA
+Infer from object presence.,YOLO+LLaMA
+Explain classroom via detected items.,YOLO+LLaMA
+What’s the event based on objects?,YOLO+LLaMA
+Tell use-case of detected items.,YOLO+LLaMA
+Explain surroundings via objects.,YOLO+LLaMA
+Tell action by objects used.,YOLO+LLaMA
+What does object group signify?,YOLO+LLaMA
+Tell what’s happening from detection map.,YOLO+LLaMA
+Use objects to interpret photo.,YOLO+LLaMA
+Detect and reason the scene.,YOLO+LLaMA
+Tell object relation to scene.,YOLO+LLaMA
+Who is using what and why?,YOLO+LLaMA
+What is the person doing with item?,YOLO+LLaMA
+Explain detected vehicle use.,YOLO+LLaMA
+Detect and tell intent.,YOLO+LLaMA
+What’s happening using object clues?,YOLO+LLaMA
+Describe the purpose of this image.,YOLO+LLaMA
+Summarize actions and items.,YOLO+LLaMA
+Tell story from object perspective.,YOLO+LLaMA
+Analyze scene through object info.,YOLO+LLaMA
+List items and their significance.,YOLO+LLaMA
+What is the scene context from detections?,YOLO+LLaMA
